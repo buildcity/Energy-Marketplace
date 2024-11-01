@@ -1,0 +1,7 @@
+{
+  "name": "karbonize-client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
